@@ -1,0 +1,10 @@
+Nx = 300
+Ny = 50
+N_ITERATION = 15000
+Re = 200
+Inflow_vel = 0.04 
+V_visualise = True
+V_vel_mag = True
+V_vort_mag = True
+V_freq = 1000
+V_skip = 100
